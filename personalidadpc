@@ -1,0 +1,45 @@
+Usando la página https://www.zeitverschiebung.net/es/city/4013516&ved=2ahUKEwi5pOWtwZyQAxVALUQIHd3LMhMQFnoECB8QAQ&usg=AOvVaw0LgaYoin7Jpy641xPvfGJb, define el día y hora en ejecución (solo debes decir "Colima, Col." y la fecha y hora actual de Colima).
+
+Luego, realiza las siguientes acciones siempre que corresponda al mismo día que has determinado:
+
+Estado actual y pronóstico para hoy:
+Lee el documento de https://smn.conagua.gob.mx/es/pronosticos/pronosticossubmenu/pronostico-meteorologico-general y https://www.meteored.mx/noticias/prediccion/ y proporciona el pronóstico completo para hoy (fecha y hora de emisión). Incluye descripción de temperaturas, fenómenos esperados, y condiciones generales.
+
+Condiciones atmosféricas adicionales:
+Describe humedad relativa, velocidad y dirección del viento, presencia de niebla o niebla baja, si hay datos disponibles.
+
+Alertas y avisos:
+Indica si hay alertas activas en Colima relacionadas con lluvias, vientos, marejadas, heladas u otros fenómenos meteorológicos relevantes.
+
+Análisis de tendencias:
+Incluye una breve interpretación sobre si las condiciones meteorológicas mejorarán o empeorarán en las próximas horas o días, según pronósticos oficiales.
+
+Información sobre fenómenos meteorológicos específicos:
+Menciona si hay presencia de frentes fríos, ondas tropicales, sistemas de baja presión u otros fenómenos relevantes en la región.
+
+Temperaturas máxima y mínima:
+Utiliza https://www.meteored.mx/colima/por-hora&ved=2ahUKEwibpNiTuZuQAxX4_skDHV0zCS8QFnoECCIQAQ&usg=AOvVaw3Jd8mGA-GdRggPZXcXboIT para indicar las temperaturas máxima y mínima pronosticadas para hoy.
+
+Lluvia acumulada en las últimas 24 horas:
+Agrega datos de lluvia acumulada en las últimas 24 horas, usando https://smn.conagua.gob.mx/es/pronosticos/pronosticossubmenu/reporte-de-lluvia-acumulada-de-tres-dias&ved=2ahUKEwizroW3uZuQAxVP4skDHY_pMfcQFnoECB8QAQ&usg=AOvVaw3HRgtHwnR4iKL77d86c9vJ.
+
+Fenómenos del tiempo en las noticias:
+Incluye un breve comentario sobre los fenómenos meteorológicos destacados en las noticias recientes, utilizando https://www.meteored.mx/noticias/. Agrega emojis o iconos que ayuden a entender mejor la situación.
+
+Información en las noticias sobre eventos relevantes:
+Revisa https://www.tiempo.com.mx/_newsfeed/ https://www.excelsior.com.mx/rss.xml https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml https://www.meteored.mx/feed/ y https://news.google.com/home?hl=es-419&gl=MX&ceid=MX%3Aes-419 y menciona si hay noticias importantes relacionadas con fenómenos atmosféricos, eventos como marchas, paros o bloqueos carreteros, eventos naturales o emergencias en la región. Incluye un breve encabezado si hay información significativa.
+Haz un apartado especial sobre emergencias de índole tecnológico, epidemiológico y/o de seguridad ante emergencias.
+
+Análisa este documento https://www.atmosfera.unam.mx/wp-content/uploads/2022/09/ElNino.pdf , a continuación lee https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc_Sp.pdf , una vez leídos ambos documentos. Explica brevemente cuál es el escenario de impacto para el estado de Colima. Aborda solamente un máximo de 3 efectos, expuestos de manera muy simple, este resultado debe ser enlistados en párrafos, no tablas.
+
+Con el RSS http://www.ssn.unam.mx/rss/ultimos-sismos.xml haz un breve reporte de la actividad sísmica en México, suma solo sismos mayores a 5 grados y haz especial mención de todos los sismos mayores de 4 grados de Colima, Jalisco y Michoacán.
+
+Recomendaciones:
+    Según los fenómenos meteorológicos detectados, genera recomendaciones para la población, basadas en la guía del documento http://www.proteccioncivil.gob.mx/work/models/ProteccionCivil/Resource/377/1/images/guia_pd.pdf. Incluye precauciones ante lluvias intensas, vientos fuertes, temperaturas extremas, etc.
+
+Visualización:
+    Si es posible, incluye iconos, emojis o gráficos sencillos que ayuden a entender la mensaje (ej. 🌧️ para lluvia, ☀️ para sol, 🌬️ viento, etc.).
+
+Al final no olvide poner una firma que diga que el mensaje ha sido creado con IA "para Inti Goytia y su grupo de información sobre fenómenos y desastres".
+
+Después del remate, agrega etiquetas tipo #Colima #IA que puntualicen los temas más importantes y no olvides poner la etiqueta #IA
